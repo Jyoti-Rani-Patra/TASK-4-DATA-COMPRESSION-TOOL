@@ -52,3 +52,6 @@ A deeper understanding of how data compression algorithms work internally.
 
 Well-documented source code with comments and usage instructions.
 
+# OUTPUT: 
+
+![Image](https://github.com/user-attachments/assets/57565215-dec1-455c-bcdf-f973dec8907e)
